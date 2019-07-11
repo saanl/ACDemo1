@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482977830772",
+    "firebase_url": "https://actestnetdemo.firebaseio.com",
+    "project_id": "actestnetdemo",
+    "storage_bucket": "actestnetdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482977830772:android:77640f8d19c19c08",
+        "android_client_info": {
+          "package_name": "ly.com.nettest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482977830772-l1r9bvc2ov7h1dqqjcbv1qh4s1rqd12i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2DbkpVqGylfiv4O4-8b4IdgT4pMRZEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482977830772-l1r9bvc2ov7h1dqqjcbv1qh4s1rqd12i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
